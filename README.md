@@ -1,4 +1,4 @@
-# Sujay Rout's Personal Website
+# My Simple Personal Website
 
 This is a simple resume website created by Sujay Rout to showcase his skills, education, experience, projects, certifications, activities, and community engagement.
 
